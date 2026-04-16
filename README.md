@@ -7,9 +7,15 @@ Data analysis project on Olist, a Brazilian e-commerce platform, focused on cust
 
 ## 📌 Project Overview
 
-This project analyzes Olist, a Brazilian e-commerce marketplace that connects small and medium-sized businesses with major online sales channels.
+This project analyzes data from Olist, a Brazilian e-commerce marketplace that connects small and medium-sized businesses with major online sales channels.
 
-The analysis covers the period 2017–2018 and aims to understand operational and commercial behavior within the platform, focusing on logistics performance, sales dynamics, and customer satisfaction.
+The analysis covers the period 2017–2018 and aims to understand the platform’s commercial and operational behavior by analyzing sales performance, order dynamics, logistics efficiency, and customer satisfaction.
+
+The analysis focuses on identifying patterns in sales evolution, delayed and canceled orders, and their impact on customer experience.
+
+It also explores product category performance, the role of sellers in customer satisfaction, and the relationship between delivery performance and reviews.
+
+Finally, a sentiment analysis model using Hugging Face was applied to classify customer reviews, and key insights were summarized in an interactive dashboard to support business decision-making.
 
 ---
 
