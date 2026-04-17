@@ -83,6 +83,16 @@ Interactive dashboards were created to communicate key business insights and KPI
 **Tools used:**
 - Looker Studio  
 
+
+## 📊 Dashboard & Data Preparation
+
+Data was prepared and transformed using Python to build structured datasets for visualization in Looker Studio.
+
+The final results are presented in an interactive dashboard showing key business KPIs such as sales performance, delivery metrics, and customer satisfaction.
+
+Key visualization from the project:
+
+![Dashboard](dashboards/dashboard_overview.png)
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
