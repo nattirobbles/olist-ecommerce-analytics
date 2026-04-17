@@ -152,7 +152,7 @@ No strong correlation was found between delivery time and review scores, suggest
 Some categories show consistently high satisfaction, while others (e.g. furniture, decor, stationery) show more variability.
 
 ---
-### 📊 Data Visualization & Dashboard
+## 📊 Data Visualization & Dashboard
 Interactive dashboards were created to communicate key business insights and KPIs.
 
 **Tools used:**
