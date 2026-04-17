@@ -77,21 +77,6 @@ Exploratory data analysis was performed to identify patterns in sales, customers
 
 ---
 
-### 📊 Data Visualization & Dashboard
-Interactive dashboards were created to communicate key business insights and KPIs.
-
-**Tools used:**
-- Looker Studio  
-
-Data was prepared and transformed using Python to build structured datasets for visualization in Looker Studio.
-
-The final results are presented in an interactive dashboard showing key business KPIs such as sales performance, delivery metrics, and customer satisfaction.
-
-Key visualization from the project:
-
-![Dashboard](dashboards/dashboard_overview.png)
----
-
 ## 🔍 Exploratory Data Analysis (EDA)
 
 The EDA focused on understanding sales performance, customer behavior, logistics efficiency, and order status distribution.
@@ -165,6 +150,21 @@ No strong correlation was found between delivery time and review scores, suggest
 
 ### 🛍️ Category Insights
 Some categories show consistently high satisfaction, while others (e.g. furniture, decor, stationery) show more variability.
+
+---
+### 📊 Data Visualization & Dashboard
+Interactive dashboards were created to communicate key business insights and KPIs.
+
+**Tools used:**
+- Looker Studio  
+
+Data was prepared and transformed using Python to build structured datasets for visualization in Looker Studio.
+
+The final results are presented in an interactive dashboard showing key business KPIs such as sales performance, delivery metrics, and customer satisfaction.
+
+Key visualization from the project:
+
+![Dashboard](dashboards/dashboard_overview.png)
 
 ---
 
