@@ -77,14 +77,11 @@ Exploratory data analysis was performed to identify patterns in sales, customers
 
 ---
 
-### 📊 Data Visualization
+### 📊 Data Visualization & Dashboard
 Interactive dashboards were created to communicate key business insights and KPIs.
 
 **Tools used:**
 - Looker Studio  
-
-
-## 📊 Dashboard & Data Preparation
 
 Data was prepared and transformed using Python to build structured datasets for visualization in Looker Studio.
 
